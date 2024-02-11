@@ -42,3 +42,6 @@ and time from different perspectives gives us different insights and helps us un
 As this is merely only a thought experiment, it is truly to describe the capabilities of thought and quantum computing. If an AI could learn to be more centered in a paradoxical state, it could come up with better solutions. Instead of leaving it in an infinite True or False state, it can instead think individually down paths of logic to find an optimal solution in the moment.
 
 Moving forward in time gives a state of infinite possibility. Problems may have no solution, but working to find one helps to make things just a bit better. The more we learn about AI and ourselves, the better we can find ways to solve these unsolvable questions.
+
+**Made By**
+Ethan Van Swearingen and Vijay Seetharam
